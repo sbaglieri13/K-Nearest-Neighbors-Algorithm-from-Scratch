@@ -1,4 +1,4 @@
-# K-Nearest Neighbors Algorithm from Scratch
+# K-Nearest Neighbors Algorithm
 The K-Nearest Neighbors algorithm, also known as KNN, is a non-parametric, supervised learning classifier, which uses proximity to make classifications or predictions about the grouping of an individual data point.<br><br> 
 While it can be used for either regression or classification problems, it is typically used as a classification algorithm, working off the assumption that similar points can be found near one another.<br><br>
 KNN tries to predict the correct class for the test data by calculating the distance between the test data and all the training points. Then select the K number of points which is closet to the test data.<br><br>
